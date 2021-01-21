@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Introduction 
 This is a simple project.
+
+## How ot contribute
+Nothing
