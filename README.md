@@ -13,7 +13,7 @@ This is a simple project.
 Contribute something
 
 ## Dataset
-Nothing
+Collected 1000 images manually.
 
 ## Conclusion
 Find something
