@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 This is a simple project.
 
 ## How ot contribute
-Nothing
+Contribute something
 
 ## Dataset
 Nothing
