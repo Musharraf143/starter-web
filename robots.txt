@@ -1,3 +1,6 @@
 # robotstxt.org/
 
 User-agent: Aspm1403
+
+## Thanks
+Thanks to all my teachers
